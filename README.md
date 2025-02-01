@@ -29,7 +29,7 @@ sudo pacman -Syu tk python-pip python-pmw  # Ensure Tkinter is fully installed
 # 2. Get the App
 ~~~
 git clone https://github.com/xatusbetazx17/volume_controller.git
-cd  volume-controller
+cd  volume_controller
 chmod +x volume_controller.py
 ~~~
 # Usage 🎮
