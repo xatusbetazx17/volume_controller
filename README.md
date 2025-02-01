@@ -28,8 +28,8 @@ sudo pacman -Syu tk python-pip python-pmw  # Ensure Tkinter is fully installed
 ```
 # 2. Get the App
 ~~~
-git clone https://github.com/yourusername/steam-deck-volume-lock.git
-cd steam-deck-volume-lock
+git clone https://github.com/xatusbetazx17/volume_controller.git
+cd  volume-controller
 chmod +x volume_controller.py
 ~~~
 # Usage 🎮
