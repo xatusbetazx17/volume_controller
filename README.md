@@ -8,7 +8,8 @@ Open-source app to lock audio volume on Steam Deck, preventing accidental change
 
 A Steam Deck app to lock audio volume to a specific level, preventing accidental changes in **Game Mode** or **Desktop Mode**. Perfect for avoiding random volume spikes!
 
-![App Screenshot](Steam Volume Lock.png)<!-- Add screenshot.png file later -->
+![App Screenshot](Steam Volume Lock.png)
+
 
 ## Features ✨
 - 🔒 Lock/Unlock toggle with visual feedback
